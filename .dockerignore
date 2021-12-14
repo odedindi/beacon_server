@@ -1,0 +1,7 @@
+**/logs
+**/node_modules
+**/test
+**/npm-debug.log
+**/.gitignore
+**/yarn-error.log
+**/.env
